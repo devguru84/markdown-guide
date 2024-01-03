@@ -33,3 +33,5 @@ deploy.sh
 Network Trash Folder
 Temporary Items
 .apdisk
+config.bat
+node_modules
